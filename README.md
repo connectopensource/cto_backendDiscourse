@@ -1,4 +1,4 @@
-<a href="http://www.discourse.org/">![Logo](images/discourse.png)</a>
+This readme is according to the README at the [Discourse repo](https://github.com/discourse/discourse) , visit the link for a more detailed perspective about Discourse development 
 
 Discourse is the 100% open source discussion platform built for the next decade of the Internet. Use it as a:
 
